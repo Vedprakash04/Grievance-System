@@ -1,0 +1,67 @@
+/* css by Pinaki Designs */
+.pd-btn{
+	background:maroon;
+	color:white;
+	padding:4px;
+}
+
+.pd-btn-cancel{
+	background:red;
+	color:white;
+	padding:5px;
+	border:#ccc 2px solid;
+}
+.hidden{
+	visibility:hidden;
+	
+}
+.phoneval{color:red; padding-left:4px;}
+.left{float:left;}
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+input[type=email] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+.select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+	
+}
+
+.upload {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+	border:1px #464032 solid;
+	background:#fff;
+}
+
+.pd-grey{
+	color:red;
+}
+
+.hlight{
+	color:red;
+	
+	
+}
